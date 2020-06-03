@@ -7,7 +7,7 @@ print("Please Wait till 100%... ")
 print(" ")
 print(" ")
 time.sleep(3)
-for i in range (10):
+for i in range (100):
 	print(i,"%")
 	print("."*i)
 	print(" ")
