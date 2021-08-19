@@ -14,10 +14,10 @@ python hack.py
 
 
 ## Created By Red_Bird... 
-### -------------------------------------
-### Code Modified by - Induwara Uthsara
-### -------------------------------------
-### Find me:
+-------------------------------------
+         Induwara Uthsara
+-------------------------------------
+ Find me:
     # Gmail      : induwarauthsara19@gmail.com
     # Facebook   : fb.com/induwa.uthsara
     # LinkedIn   : linkedin.com/in/induwarauthsara
