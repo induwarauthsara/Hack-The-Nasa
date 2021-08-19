@@ -14,3 +14,16 @@ python hack.py
 
 
 ## Created By Red_Bird... 
+### -------------------------------------
+### Code Modified by - Induwara Uthsara
+### -------------------------------------
+### Find me:
+    # Gmail      : induwarauthsara19@gmail.com
+    # Facebook   : fb.com/induwa.uthsara
+    # LinkedIn   : linkedin.com/in/induwarauthsara
+    # Instagram  : instagram.com/induwara.uthsara
+    # Twitter    : twitter.com/InduwaraUthsara
+    # Behance    : behance.net/induwarauthsara
+    # Dribble    : dribbble.com/InduwaraUthsara
+    # Tiktok     : tiktok.com/@induwarauthsara
+    # Website    : www.induwarauthsara.com (Under Construction... Comming Soon...)
