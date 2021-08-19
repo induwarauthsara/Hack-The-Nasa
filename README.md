@@ -18,12 +18,10 @@ python hack.py
          Induwara Uthsara
 -------------------------------------
  Find me:
-    # Gmail      : induwarauthsara19@gmail.com
-    # Facebook   : fb.com/induwa.uthsara
-    # LinkedIn   : linkedin.com/in/induwarauthsara
-    # Instagram  : instagram.com/induwara.uthsara
-    # Twitter    : twitter.com/InduwaraUthsara
-    # Behance    : behance.net/induwarauthsara
-    # Dribble    : dribbble.com/InduwaraUthsara
-    # Tiktok     : tiktok.com/@induwarauthsara
-    # Website    : www.induwarauthsara.com (Under Construction... Comming Soon...)
+ 
+- Gmail    : [induwarauthsara19@gmail.com](mailto:induwarauthsara19@gmail.com)
+- Facebook : [fb.com/induwa.uthsara](https://web.facebook.com/induwa.uthsara/)
+- LinkedIn : [linkedin.com/in/induwarauthsara](https://www.linkedin.com/in/induwarauthsara)
+- Instagram : [instagram.com/induwara.uthsara](https://www.instagram.com/induwara.uthsara)
+- Twitter : [twitter.com/InduwaraUthsara](https://twitter.com/InduwaraUthsara)
+- Behance : [behance.net/induwarauthsara](https://www.behance.net/induwarauthsara)
